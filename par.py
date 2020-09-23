@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+﻿#!/usr/bin/python3
 # -*- coding: utf-8 -
 
 
@@ -12,3 +12,4 @@ else:
     print('В доступе отказано')
 print('Конец')
 # String ***
+# 5555555555555
